@@ -4,10 +4,11 @@ This webpage was developed as a daily planner between 9am to 5pm. Three differen
 
 
 ## Deployed Website
-
+https://benjaminescobar1.github.io/daily-planner/
 
 ## Screenshot
 
+![daily planner](https://github.com/benjaminescobar1/daily-planner/assets/135399618/e03613cf-eb6e-42f9-a342-65b1ef63fb16)
 
 
 
